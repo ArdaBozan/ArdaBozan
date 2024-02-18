@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arda Bozan and I'm 16 years old!
+- 👋 Hi, I’m Arda Bozan
 - 👀 I’m interested in coding and bodybuilding.
 - 🌱 I’m currently learning coding at highschool.
 
